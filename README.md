@@ -82,9 +82,3 @@ All distances were normalized to ensure scale uniformity.
 3. Model more advanced similarity functions using deep metric learning.
 4. Combine collaborative filtering techniques for a hybrid recommendation engine.
 
-## Authors
-
-- Rahul  
-- Sparsh  
-- Lakshya
-
